@@ -1,11 +1,3 @@
----
-title: Thaiane
-date: '2020-14-05'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'Thaiane'
----
-
 <h2> Hi, I'm Annie! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.tenor.com/images/74128452cca455bc4543aec206a91cba/tenor.gif?itemid=12003112" width="230">
 <p><em>Student, Developer at <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm from Campina Grande, PB - Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
