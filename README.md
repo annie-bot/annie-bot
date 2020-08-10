@@ -12,7 +12,7 @@ githubUsername: 'Thaiane'
 </em></p>
 
 [![Linkedin: Anne Nogueira](https://img.shields.io/badge/-Anne_Nogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/annie-bot)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Anne_Nogueira](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/annie-bot)
+[![GitHub Anne_Nogueira](https://img.shields.io/github/followers/annie?label=follow&style=social)](https://github.com/annie-bot)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... ✨  
