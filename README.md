@@ -11,7 +11,7 @@ githubUsername: 'Thaiane'
 <p><em>Student, Developer at <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm from Campina Grande, PB - Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Anne Nogueira](https://img.shields.io/badge/-Anne_Nogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/annie-bot)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Anne Nogueira](https://img.shields.io/badge/-Anne_Nogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/annie-bot)](https://www.linkedin.com/in/annie-bot/)
 [![GitHub Anne_Nogueira](https://img.shields.io/github/followers/annie?label=follow&style=social)](https://github.com/annie-bot)
 
 
