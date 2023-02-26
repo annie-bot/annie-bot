@@ -13,7 +13,7 @@
 ```javascript
 const annie = 
   pronouns: "she" | "her",
-  code: [Python, Java]
+  code: [Python, Java, C, PL/SQL, Js]
   ```
 🎮 Anime and games enthusiast 🤓 overall geek 👩🏻‍🎤
 
